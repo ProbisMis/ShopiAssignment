@@ -2,7 +2,7 @@
 
 ### Installation ###
 
-* type `git clone https://github.com/ProbisMis/ShopiAssignment.git projectname` to clone the repository 
+* type `git clone https://github.com/ProbisMis/ShopiAssignmentMVC.git projectname` to clone the repository 
 * type `cd projectname`
 * open `WebApplication1.sln` file with Visual Studio 2019
 * Run Project
